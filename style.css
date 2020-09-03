@@ -20,8 +20,7 @@ button {
 }
 
 h1 {
-    color: #0856f1;
-    font-size: 3em;
+    color: #e600a0;
 }
 
 h2 {
@@ -39,18 +38,18 @@ div.col {
 }
 
 button {
-    background-color: #f10505;
+    background-color: #e600a0;
     border-radius: 5px;
     padding: 20px 50px;
     color: white;
     border: none;
     cursor: pointer;
-    font-size: 2em;
+    font-size: 1.3em;
     margin: 0 auto;
 }
 
 button:hover {
-    background-color: #980469;
+    background-color: #05f625;
 }
 
 button:active,
